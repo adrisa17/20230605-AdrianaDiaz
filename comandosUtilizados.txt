@@ -1,0 +1,198 @@
+    1  ls
+    2  cd
+    3  mkdir
+    4  mkdir personalProject
+    5  ls
+    6  sudo mkdir personalProjects
+    7  ls
+    8  touch index.html
+    9  ls
+   10  mv index.html  personalProject
+   11  ls
+   12  mv personalProject personalProjects
+   13  ls
+   14  code .
+   15  git --v
+   16  git --version
+   17  clear
+   18  ssh-keygen
+   19  ssh-keygen -t rsa -b 4096 -c "adri.idiaz1917@gmail.com"
+   20  ssh-keygen -t rsa -b 4096 -C "adri.idiaz1917@gmail.com"
+   21  eval "$(ssh-agent -s)"
+   22  clear
+   23  ssh-copy-id 
+   24  ssh-copy-id adri.idiaz1917@gmail.com
+   25  cd ~/ssh
+   26  cd ~/.ssh
+   27  cat id_rsa.pub
+   28  
+   29  exit
+   30  java -version
+   31  pwd
+   32  ls
+   33  ls -a
+   34  ls
+   35  mkdir nueva_carpeta_2
+   36  ls
+   37  cd nueva_carpeta_2
+   38  ls
+   39  cd ..
+   40  cd nueva_carpeta_2
+   41  pwd
+   42  cd ..
+   43  cd nueva_carpeta_1
+   44  cd
+   45  ls
+   46  mkdir my_first_code
+   47  ls
+   48  cd my_first_code/
+   49  ls 
+   50  touch hola_mundo_2
+   51  ls
+   52  cat hola_mundo.txt
+   53  cat hola_mundo_2
+   54  ls
+   55  cat WhatsApp\ Image\ 2023-05-11\ at\ 20.31.09.jpeg
+   56  clear
+   57  ls
+   58  vim --version
+   59  vim hola_mundo_2
+   60  cat hola_mundo_2
+   61  ped
+   62  pwd
+   63  node hola_mundo_2-js
+   64  node hola_mundo_2.js
+   65  sudo apt install nodejs
+   66  node hola_mundo_2.js
+   67  ls 
+   68  mkdir universidad
+   69  ls
+   70  cd universidad/
+   71  git clone git@github.com:adrisa17/aboutMe.git
+   72  cd 
+   73  ls -a
+   74  cd .ssh/
+   75  ls
+   76  cat id_rsa
+   77  cat id_rsa.pub 
+   78  cd 
+   79  ls
+   80  cd universidad/
+   81  git clone git@github.com:adrisa17/aboutMe.git
+   82  ls
+   83  git clone git@github.com:adrisa17/aboutMe.git
+   84  $ ssh-keygen -t ed25519 -C "adri.idiaz1917@gmail.com"
+   85  ssh-keygen -t ed25519 -C "adri.idiaz1917@gmail.com"
+   86  cd ~/.ssh
+   87  ls
+   88  rm *
+   89  ls
+   90  cat id_ed25519.pub 
+   91  cd ~/universidad/
+   92  git clone git@github.com:adrisa17/aboutMe.git
+   93  ls
+   94  code .
+   95  ls
+   96  cd aboutMe/
+   97  code .
+   98  git clone git@github.com:adrisa17/Mochila_Diaz_Adriana.git
+   99  ls
+  100  code .
+  101  sass --version
+  102  node --version
+  103  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+  104  export NVM_DIR="$HOME/.nvm"
+  105  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+  106  [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+  107  cd
+  108  ls -a
+  109  cat .bashrc 
+  110  source bash
+  111  source bashrc
+  112  source .bashrc
+  113  ls
+  114  cd universidad/
+  115  cd aboutMe/
+  116  ls
+  117  node --version
+  118  nvm --version
+  119  nvm install node
+  120  nvm list
+  121  nvm install sass
+  122  npm install sass
+  123  npm install sass -g
+  124  ls
+  125  rm -rf node_modules/ package.json package-lock.json 
+  126  ls
+  127  sass sass/style.scss
+  128  sass sass/style.scss styles/style.css
+  129  sass sass/style.scss styles/style.css -w
+  130  code .
+  131  cd ..
+  132  cd
+  133  ls
+  134  mkdir react
+  135  ls
+  136  cd react/
+  137  npm create vite@latest
+  138  code .
+  139  ls 
+  140  code vite-project/
+  141  code .
+  142  ls
+  143  git clone git@github.com:AlejandroUcan/dh-heroes-z.git
+  144  ls
+  145  cd dh-heroes-z/
+  146  ls
+  147  code . 
+  148  code .
+  149  touch comandos.txt main.js index.html
+  150  ls
+  151  git add .
+  152  git commit -m "commit 01 de Adriana Díaz "
+  153  git push
+  154  git status
+  155  git checkout feature01
+  156  git branch feature01
+  157  git checkout feature01 
+  158  mkdir terminal hardware
+  159  ls
+  160  cd hardware/
+  161  touch resumen.txt
+  162  ls
+  163  cd ..
+  164  ls
+  165  cd terminal/
+  166  touch resumen.txt
+  167  ls
+  168  git branch
+  169  ls
+  170  cd ..
+  171  ls
+  172  git status
+  173  git add .
+  174  git commit -m "commit 02  de Adriana Díaz "
+  175  git push
+  176  git push --set-upstream origin feature01
+  177  git branch 
+  178  git branch --o
+  179  git branch --all
+  180  git branch feature02
+  181  git branch
+  182* git commit 
+  183  git branch
+  184  git add .
+  185  git status
+  186  git commit -m "commit 03  de Adriana Díaz "
+  187  git push
+  188  git push -u origin feature02
+  189  git status
+  190  git branch -a
+  191  git checkout master 
+  192  ls
+  193  pwd
+  194  ls
+  195  rn comandos.txt comandosUtilizados.txt
+  196  mv comandos.txt comandosUtilizados.txt
+  197  ls
+  198  history
