@@ -1,0 +1,5 @@
+1. git add .
+2. git clone
+3. git status
+4. git commit -m "colocar commit"
+5. git push
